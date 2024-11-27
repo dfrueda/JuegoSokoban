@@ -4,5 +4,5 @@ Divertido Juego de escritorio Sokoban, resuleve puzzles en mazmorras, encuentra 
 
 CARACTERITICAS:
 - Generación de laberintos aleatorios
-- 9 niveles de dificultad
+- 3 niveles de dificultad
 - 2 Mounstros diferentes
